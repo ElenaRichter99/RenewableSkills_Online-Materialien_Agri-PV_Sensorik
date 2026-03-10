@@ -1,5 +1,5 @@
-# RenewableSkills-Online-Materialien
-Diese frei zugaengliche Sammlung an Dateien dient als Grundlage zur Vermittlung von Lerninhalten zum Thema Agri-PV und Messtechnik (Sensorik). Sie ist im rahmen des Projekts RenewableSkills entstanden.
+# RenewableSkills-Online-Materialien Agri-PV und Sensorik
+Diese frei zugaengliche Sammlung an Dateien dient als Grundlage zur Vermittlung von Lerninhalten zum Thema Agri-PV und Sensorik. Sie ist im Rahmen des Projekts RenewableSkills entstanden.
 
 ---
 
