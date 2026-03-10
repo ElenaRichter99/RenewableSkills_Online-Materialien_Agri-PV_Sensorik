@@ -18,12 +18,12 @@ Zweitentwurf: ...).
 
 ## Vorgesehene Reihenfolge der Nutzung sowie Inhalt der Ordner und Dateien:
 
-1. Agri-PV --> umfassende Praesentation zu Agri-Pv, inklusive Vorstellung der Anlage der HTWK sowie verbauter elektronischer Komponenten und Sensoren
+1. [Agri-PV](./1_Agri-PV/)--> umfassende Praesentation zu Agri-Pv, inklusive Vorstellung der Anlage der HTWK sowie verbauter elektronischer Komponenten und Sensoren
 - 1_Agri-PV.pptx
 - 1_Agri-PV.pdf
 
 2. Sensorik
-    1. Arduino --> Einfuehrung in die Programmierung von Mikrocontrollern mit Arduino, sowie Materialliste, Steck- und Codevorlage zur Umsetzung von Blinkbeispielen (LED's)
+    1. [Arduino](./2_Sensorik/2.1_Arduino/) --> Einfuehrung in die Programmierung von Mikrocontrollern mit Arduino, sowie Materialliste, Steck- und Codevorlage zur Umsetzung von Blinkbeispielen (LED's)
     - 2.1_Arduino.pptx
     - 2.1_Arduino-pdf
     - Arduino-Skripte
@@ -34,21 +34,21 @@ Zweitentwurf: ...).
         - LED_3
         - LED_3_Luecken
 
-    2. Temperatursensoren --> Funktionsweise von NTC- und PTC-Sensoren, sowie Materialliste, Steck- und Codevorlage zur Inbetriebnahme / zum Test eines NTC-Sensors
+    2. [Temperatursensoren](./2_Sensorik/2.2_Temperatursensoren/) --> Funktionsweise von NTC- und PTC-Sensoren, sowie Materialliste, Steck- und Codevorlage zur Inbetriebnahme / zum Test eines NTC-Sensors
     - 2.2_Temperatursensoren.pptx
     - 2.2_Temperatursensoren.pdf
     - Arduino-Skripte
         - NTC
         - NTC_Luecken
 
-    3. DHT22 --> Funktionsweise eines DHT22-Sensors (Temperatur- und Luftfeuchtesensor), sowie Materialliste, Steck- und Codevorlage zur Inbetriebnahme / zum Test eines DHT22-Sensors
+    3. [DHT22](./2_Sensorik/2.3_DHT22/) --> Funktionsweise eines DHT22-Sensors (Temperatur- und Luftfeuchtesensor), sowie Materialliste, Steck- und Codevorlage zur Inbetriebnahme / zum Test eines DHT22-Sensors
     - 2.3_DHT22.pptx
     - 2.3_DHT22.pdf
     - Arduino-Skripte
         - DHT22
         - DHT22_Luecken
 
-    4. LDR_Wokwi --> Funktionsweise eines LDR's (Fotowiderstand), sowie Steck- und Codevorlage zur simulierten Inbetriebnahme / zum simulierten Test eines LDR's in Wokwi
+    4. [LDR_Wokwi](./2_Sensorik/2.4_LDR_Wokwi/) --> Funktionsweise eines LDR's (Fotowiderstand), sowie Steck- und Codevorlage zur simulierten Inbetriebnahme / zum simulierten Test eines LDR's in Wokwi
     - 2.4_LDR_Wokwi.pptx
     - 2.4_LDR_Wokwi.pdf
     - Arduino-Skripte
@@ -57,14 +57,14 @@ Zweitentwurf: ...).
         - LDR_3
         - LDR_3_Luecken
 
-    5. Messwerte speichern --> Materialliste, Steck- und Codevorlage zur Speicherung von messwerten eines DHT22-Sensors auf einer SD-Karte
+    5. [Messwerte speichern](./2_Sensorik/2.5_Messwerte_speichern/) --> Materialliste, Steck- und Codevorlage zur Speicherung von messwerten eines DHT22-Sensors auf einer SD-Karte
     - 2.5_Messwerte_speichern.pptx
     - 2.5_Messwerte_speichern.pdf
     - Arduino-Skripte
         - Messwerte_speichern
         - Messwerte_speichern_Luecken
 
-3. Projekt 
+3. [Projekt](./3_Projekt/)
 
     1. 3.1_Projektformular.doc --> Formular/Leitfaden fuer eigene Messtechnikprojekte
 
