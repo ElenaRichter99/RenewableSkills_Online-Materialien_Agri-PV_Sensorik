@@ -6,13 +6,10 @@ Diese frei zugaengliche Sammlung an Dateien dient als Grundlage zur Vermittlung 
 ## Allgemeines:
 
 Die meisten Dateien sind in einem bearbeitbaren Format (PowerPoint und Word) und als PDF vorhanden. Innerhalb der Powerpoint- bzw. PDF-Dateien folgt auf eine Fragefolie mit Luecken stets eine Antwortfolie ohne Luecken, so dass eine interaktive Nutzung der Dateien moeglich ist. In einigen Powerpoint- bzw. PDF-Dateien finden sich Screenshots von Arduino-Skripten. Die dazugehoerigen Ino-Dateien mit und ohne Luecken sind ebenfalls Teil der Sammlung.
-
 Um die INO-Dateien nutzen zu koennen, muss zuvor Arduino-IDE installiert werden. Der Hinweis findet sich auch in den entsprechenden Powerpoint- bzw. PDF-Dateien.
 
-Falls Aenderungen innerhalb einer Datei im bearbeitbaren Format vorgenommen werden, 
-bitte die HTWK-Kennzeichnungen entfernen und die Fusszeile entsprechend anpassen. 
-("Erstentwurf: Prof. Dr-Ing. Mathias Rudolph, Elena Richter, Ludwig Ostertag, HTWK, Fakultaet ING, Industrielle Messtechnik;
-Zweitentwurf: ...).
+Die INO-Dateien in diesem Repository duerfen frei verwendet, weitergegeben, veraendert und auch kommerziell genutzt werden.
+Die uebrigen Dateien (PowerPoint, Word, PDF) sind ausschliesslich fuer die nicht-kommerzielle Nutzung vorgesehen. Falls Aenderungen vorgenommen werden, muss die HTWK-Kennzeichnung entfernt und die Fusszeile entsprechend angepasst werden ("Erstentwurf: Prof. Dr-Ing. Mathias Rudolph, Elena Richter, Ludwig Ostertag, HTWK, Fakultaet ING, Industrielle Messtechnik;Zweitentwurf: ...). Eine Weitergabe ist unter den gleichen bedingungen zulaessig.
 
 ---
 
