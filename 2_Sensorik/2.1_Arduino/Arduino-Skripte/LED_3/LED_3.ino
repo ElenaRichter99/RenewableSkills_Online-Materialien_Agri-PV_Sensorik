@@ -12,14 +12,14 @@ void setup() {
 void loop() {
   // LEDs von vorne nach hinten
   for(int i = 0; i < numLEDs; i++) {
-    digitalWrire(leds[i], HIGH;   // LED an
+    digitalWrite(leds[i], HIGH);   // LED an
     delay(200);                  // kurze Pause
     digitalWrite(leds[i], LOW); // LED aus
   }
 
   // LEDs von hinten nach vorne
   for(int i = numLEDs-2; i > 0; i--) {  // -2 und > 0 damit die äußeren LEDs nicht doppelt blinken     
-      digitalWrire(leds[i], HIGH;     // LED an
+      digitalWrite(leds[i], HIGH);     // LED an
     delay(200);                      // kurze Pause
     digitalWrite(leds[i], LOW);     // LED aus 
   }    
